@@ -1,2 +1,5 @@
 /node_modules/
+/tmp/
 package-lock.json
+/src/scripts/app.js
+dist/
